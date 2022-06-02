@@ -13,3 +13,8 @@ sortCars.sort();
 
 sorting();
 module.exports= sortCars;
+// for(let i=0; i<sortCars.length-1;i++)
+// {
+//     console.log(sortCars[i]);
+//     console.log('\n');
+// }

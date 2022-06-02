@@ -13,4 +13,6 @@ let arr=[];
 carYear(arr);
 
 module.exports = arr;
+// console.log(arr);
+
 

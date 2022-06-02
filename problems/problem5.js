@@ -13,3 +13,4 @@ let count=0;
 sumCars(arr,count);
 
 module.exports = count;
+// console.log(count);

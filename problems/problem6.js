@@ -15,3 +15,4 @@ let arr=[];
 cars(arr);
 
 module.exports = arr;
+// console.log(JSON.stringify(arr));

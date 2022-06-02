@@ -12,3 +12,4 @@ module.exports= {
     lastCar: lastCar,
     car: car,
 };
+// console.log('Last Car is a'+ ' '+lastCar.car[0]+ ' '+ lastCar.car[1]);
